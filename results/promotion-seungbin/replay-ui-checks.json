@@ -1,0 +1,26 @@
+[
+  {
+    "file": "public-gain-baseline.html",
+    "endFrame": true,
+    "gantt": true,
+    "errors": []
+  },
+  {
+    "file": "public-gain-traffic-cap.html",
+    "endFrame": true,
+    "gantt": true,
+    "errors": []
+  },
+  {
+    "file": "validation-loss-baseline.html",
+    "endFrame": true,
+    "gantt": true,
+    "errors": []
+  },
+  {
+    "file": "validation-loss-traffic-cap.html",
+    "endFrame": true,
+    "gantt": true,
+    "errors": []
+  }
+]
