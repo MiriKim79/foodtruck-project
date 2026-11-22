@@ -1,0 +1,3459 @@
+{
+  "phase": "validation",
+  "rule": "foodtruck-0.16-fixed-235-flow-40-80",
+  "seeds": [
+    "3101",
+    "3102",
+    "3103",
+    "3104",
+    "3105",
+    "3106",
+    "3107",
+    "3108",
+    "3109",
+    "3110"
+  ],
+  "opponent": "frozen original teams/A/MyStrategy.java",
+  "rows": [
+    {
+      "strategy": "baseline",
+      "seed": "3101",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 575000,
+      "served": 63,
+      "unfinished": 9,
+      "refunded": 39000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3101",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 71,
+      "unfinished": 7,
+      "refunded": 61000,
+      "promotionTicks": 147,
+      "orderTicks": 155,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3101",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 71,
+      "unfinished": 7,
+      "refunded": 61000,
+      "promotionTicks": 147,
+      "orderTicks": 155,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3101",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 575000,
+      "served": 63,
+      "unfinished": 9,
+      "refunded": 39000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3102",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 575000,
+      "served": 61,
+      "unfinished": 5,
+      "refunded": 18000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3102",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 565000,
+      "served": 55,
+      "unfinished": 7,
+      "refunded": 17000,
+      "promotionTicks": 189,
+      "orderTicks": 115,
+      "cookTicks": 292,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3102",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 565000,
+      "served": 55,
+      "unfinished": 7,
+      "refunded": 17000,
+      "promotionTicks": 189,
+      "orderTicks": 115,
+      "cookTicks": 292,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3102",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 575000,
+      "served": 61,
+      "unfinished": 5,
+      "refunded": 18000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3103",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 565000,
+      "served": 67,
+      "unfinished": 5,
+      "refunded": 62000,
+      "promotionTicks": 156,
+      "orderTicks": 144,
+      "cookTicks": 292,
+      "idleTicks": 8,
+      "opponentRevenue": 564000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3103",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 564000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 66000,
+      "promotionTicks": 162,
+      "orderTicks": 136,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3103",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 564000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 66000,
+      "promotionTicks": 162,
+      "orderTicks": 136,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3103",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 565000,
+      "served": 67,
+      "unfinished": 5,
+      "refunded": 62000,
+      "promotionTicks": 156,
+      "orderTicks": 144,
+      "cookTicks": 292,
+      "idleTicks": 8,
+      "opponentRevenue": 564000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3104",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 572000,
+      "served": 62,
+      "unfinished": 5,
+      "refunded": 51000,
+      "promotionTicks": 165,
+      "orderTicks": 134,
+      "cookTicks": 294,
+      "idleTicks": 7,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3104",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 573000,
+      "served": 66,
+      "unfinished": 6,
+      "refunded": 45000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 293,
+      "idleTicks": 6,
+      "opponentRevenue": 572000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3104",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 573000,
+      "served": 66,
+      "unfinished": 6,
+      "refunded": 45000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 293,
+      "idleTicks": 6,
+      "opponentRevenue": 572000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3104",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 572000,
+      "served": 62,
+      "unfinished": 5,
+      "refunded": 51000,
+      "promotionTicks": 165,
+      "orderTicks": 134,
+      "cookTicks": 294,
+      "idleTicks": 7,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3105",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 561000,
+      "served": 56,
+      "unfinished": 5,
+      "refunded": 66000,
+      "promotionTicks": 177,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 7,
+      "opponentRevenue": 567000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3105",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 567000,
+      "served": 57,
+      "unfinished": 5,
+      "refunded": 47000,
+      "promotionTicks": 180,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3105",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 567000,
+      "served": 57,
+      "unfinished": 5,
+      "refunded": 47000,
+      "promotionTicks": 180,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3105",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 561000,
+      "served": 56,
+      "unfinished": 5,
+      "refunded": 66000,
+      "promotionTicks": 177,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 7,
+      "opponentRevenue": 567000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3106",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 62,
+      "unfinished": 8,
+      "refunded": 74000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 292,
+      "idleTicks": 6,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3106",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 63,
+      "unfinished": 6,
+      "refunded": 77000,
+      "promotionTicks": 162,
+      "orderTicks": 138,
+      "cookTicks": 293,
+      "idleTicks": 7,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3106",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 63,
+      "unfinished": 6,
+      "refunded": 77000,
+      "promotionTicks": 162,
+      "orderTicks": 138,
+      "cookTicks": 293,
+      "idleTicks": 7,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3106",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 62,
+      "unfinished": 8,
+      "refunded": 74000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 292,
+      "idleTicks": 6,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3107",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 573000,
+      "served": 61,
+      "unfinished": 8,
+      "refunded": 43000,
+      "promotionTicks": 165,
+      "orderTicks": 135,
+      "cookTicks": 294,
+      "idleTicks": 6,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3107",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 561000,
+      "served": 63,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3107",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 561000,
+      "served": 63,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3107",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 573000,
+      "served": 61,
+      "unfinished": 8,
+      "refunded": 43000,
+      "promotionTicks": 165,
+      "orderTicks": 135,
+      "cookTicks": 294,
+      "idleTicks": 6,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3108",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 551000,
+      "served": 58,
+      "unfinished": 10,
+      "refunded": 73000,
+      "promotionTicks": 174,
+      "orderTicks": 133,
+      "cookTicks": 288,
+      "idleTicks": 5,
+      "opponentRevenue": 553000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3108",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 553000,
+      "served": 69,
+      "unfinished": 7,
+      "refunded": 76000,
+      "promotionTicks": 156,
+      "orderTicks": 151,
+      "cookTicks": 288,
+      "idleTicks": 5,
+      "opponentRevenue": 551000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3108",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 553000,
+      "served": 69,
+      "unfinished": 7,
+      "refunded": 76000,
+      "promotionTicks": 156,
+      "orderTicks": 151,
+      "cookTicks": 288,
+      "idleTicks": 5,
+      "opponentRevenue": 551000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3108",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 551000,
+      "served": 58,
+      "unfinished": 10,
+      "refunded": 73000,
+      "promotionTicks": 174,
+      "orderTicks": 133,
+      "cookTicks": 288,
+      "idleTicks": 5,
+      "opponentRevenue": 553000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3109",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 573000,
+      "served": 58,
+      "unfinished": 6,
+      "refunded": 4000,
+      "promotionTicks": 183,
+      "orderTicks": 119,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 576000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3109",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 576000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 12000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3109",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 576000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 12000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3109",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 573000,
+      "served": 58,
+      "unfinished": 6,
+      "refunded": 4000,
+      "promotionTicks": 183,
+      "orderTicks": 119,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 576000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3110",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 549000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 65000,
+      "promotionTicks": 171,
+      "orderTicks": 142,
+      "cookTicks": 282,
+      "idleTicks": 5,
+      "opponentRevenue": 571000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3110",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 571000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 70000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 294,
+      "idleTicks": 5,
+      "opponentRevenue": 549000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3110",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 571000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 70000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 294,
+      "idleTicks": 5,
+      "opponentRevenue": 549000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "baseline",
+      "seed": "3110",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 549000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 65000,
+      "promotionTicks": 171,
+      "orderTicks": 142,
+      "cookTicks": 282,
+      "idleTicks": 5,
+      "opponentRevenue": 571000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3101",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 575000,
+      "served": 63,
+      "unfinished": 9,
+      "refunded": 39000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3101",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 71,
+      "unfinished": 7,
+      "refunded": 61000,
+      "promotionTicks": 147,
+      "orderTicks": 155,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3101",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 71,
+      "unfinished": 7,
+      "refunded": 61000,
+      "promotionTicks": 147,
+      "orderTicks": 155,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3101",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 575000,
+      "served": 63,
+      "unfinished": 9,
+      "refunded": 39000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3102",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 575000,
+      "served": 61,
+      "unfinished": 5,
+      "refunded": 18000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3102",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 565000,
+      "served": 55,
+      "unfinished": 7,
+      "refunded": 17000,
+      "promotionTicks": 189,
+      "orderTicks": 115,
+      "cookTicks": 292,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3102",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 565000,
+      "served": 55,
+      "unfinished": 7,
+      "refunded": 17000,
+      "promotionTicks": 189,
+      "orderTicks": 115,
+      "cookTicks": 292,
+      "idleTicks": 4,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3102",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 575000,
+      "served": 61,
+      "unfinished": 5,
+      "refunded": 18000,
+      "promotionTicks": 174,
+      "orderTicks": 128,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3103",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 565000,
+      "served": 67,
+      "unfinished": 5,
+      "refunded": 62000,
+      "promotionTicks": 150,
+      "orderTicks": 144,
+      "cookTicks": 292,
+      "idleTicks": 14,
+      "opponentRevenue": 564000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3103",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 564000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 66000,
+      "promotionTicks": 162,
+      "orderTicks": 136,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3103",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 564000,
+      "served": 62,
+      "unfinished": 6,
+      "refunded": 66000,
+      "promotionTicks": 162,
+      "orderTicks": 136,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 565000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3103",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 565000,
+      "served": 67,
+      "unfinished": 5,
+      "refunded": 62000,
+      "promotionTicks": 150,
+      "orderTicks": 144,
+      "cookTicks": 292,
+      "idleTicks": 14,
+      "opponentRevenue": 564000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3104",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 551000,
+      "served": 60,
+      "unfinished": 5,
+      "refunded": 50000,
+      "promotionTicks": 174,
+      "orderTicks": 130,
+      "cookTicks": 288,
+      "idleTicks": 8,
+      "opponentRevenue": 568000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3104",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 573000,
+      "served": 66,
+      "unfinished": 6,
+      "refunded": 45000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 293,
+      "idleTicks": 6,
+      "opponentRevenue": 572000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3104",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 573000,
+      "served": 66,
+      "unfinished": 6,
+      "refunded": 45000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 293,
+      "idleTicks": 6,
+      "opponentRevenue": 572000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3104",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 551000,
+      "served": 60,
+      "unfinished": 5,
+      "refunded": 50000,
+      "promotionTicks": 174,
+      "orderTicks": 130,
+      "cookTicks": 288,
+      "idleTicks": 8,
+      "opponentRevenue": 568000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3105",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 561000,
+      "served": 56,
+      "unfinished": 5,
+      "refunded": 66000,
+      "promotionTicks": 174,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 10,
+      "opponentRevenue": 567000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3105",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 567000,
+      "served": 57,
+      "unfinished": 5,
+      "refunded": 47000,
+      "promotionTicks": 180,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3105",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 567000,
+      "served": 57,
+      "unfinished": 5,
+      "refunded": 47000,
+      "promotionTicks": 180,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3105",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 561000,
+      "served": 56,
+      "unfinished": 5,
+      "refunded": 66000,
+      "promotionTicks": 174,
+      "orderTicks": 122,
+      "cookTicks": 294,
+      "idleTicks": 10,
+      "opponentRevenue": 567000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3106",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 62,
+      "unfinished": 8,
+      "refunded": 74000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 292,
+      "idleTicks": 6,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3106",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 63,
+      "unfinished": 6,
+      "refunded": 77000,
+      "promotionTicks": 162,
+      "orderTicks": 138,
+      "cookTicks": 293,
+      "idleTicks": 7,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3106",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 569000,
+      "served": 63,
+      "unfinished": 6,
+      "refunded": 77000,
+      "promotionTicks": 162,
+      "orderTicks": 138,
+      "cookTicks": 293,
+      "idleTicks": 7,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3106",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 569000,
+      "served": 62,
+      "unfinished": 8,
+      "refunded": 74000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 292,
+      "idleTicks": 6,
+      "opponentRevenue": 569000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3107",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 573000,
+      "served": 61,
+      "unfinished": 8,
+      "refunded": 43000,
+      "promotionTicks": 165,
+      "orderTicks": 135,
+      "cookTicks": 294,
+      "idleTicks": 6,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3107",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 561000,
+      "served": 63,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3107",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 561000,
+      "served": 63,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 162,
+      "orderTicks": 140,
+      "cookTicks": 294,
+      "idleTicks": 4,
+      "opponentRevenue": 573000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3107",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 573000,
+      "served": 61,
+      "unfinished": 8,
+      "refunded": 43000,
+      "promotionTicks": 165,
+      "orderTicks": 135,
+      "cookTicks": 294,
+      "idleTicks": 6,
+      "opponentRevenue": 561000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3108",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 553000,
+      "served": 59,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 174,
+      "orderTicks": 132,
+      "cookTicks": 287,
+      "idleTicks": 7,
+      "opponentRevenue": 555000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3108",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 553000,
+      "served": 69,
+      "unfinished": 7,
+      "refunded": 76000,
+      "promotionTicks": 153,
+      "orderTicks": 151,
+      "cookTicks": 288,
+      "idleTicks": 8,
+      "opponentRevenue": 551000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3108",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 553000,
+      "served": 69,
+      "unfinished": 7,
+      "refunded": 76000,
+      "promotionTicks": 153,
+      "orderTicks": 151,
+      "cookTicks": 288,
+      "idleTicks": 8,
+      "opponentRevenue": 551000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3108",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 553000,
+      "served": 59,
+      "unfinished": 8,
+      "refunded": 70000,
+      "promotionTicks": 174,
+      "orderTicks": 132,
+      "cookTicks": 287,
+      "idleTicks": 7,
+      "opponentRevenue": 555000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3109",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 572000,
+      "served": 57,
+      "unfinished": 6,
+      "refunded": 4000,
+      "promotionTicks": 177,
+      "orderTicks": 117,
+      "cookTicks": 294,
+      "idleTicks": 12,
+      "opponentRevenue": 576000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3109",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 572000,
+      "served": 60,
+      "unfinished": 7,
+      "refunded": 12000,
+      "promotionTicks": 174,
+      "orderTicks": 124,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3109",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 572000,
+      "served": 60,
+      "unfinished": 7,
+      "refunded": 12000,
+      "promotionTicks": 174,
+      "orderTicks": 124,
+      "cookTicks": 294,
+      "idleTicks": 8,
+      "opponentRevenue": 575000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3109",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 572000,
+      "served": 57,
+      "unfinished": 6,
+      "refunded": 4000,
+      "promotionTicks": 177,
+      "orderTicks": 117,
+      "cookTicks": 294,
+      "idleTicks": 12,
+      "opponentRevenue": 576000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3110",
+      "seat": 0,
+      "mirror": false,
+      "revenue": 549000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 65000,
+      "promotionTicks": 171,
+      "orderTicks": 142,
+      "cookTicks": 282,
+      "idleTicks": 5,
+      "opponentRevenue": 571000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3110",
+      "seat": 0,
+      "mirror": true,
+      "revenue": 571000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 70000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 294,
+      "idleTicks": 5,
+      "opponentRevenue": 549000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3110",
+      "seat": 1,
+      "mirror": false,
+      "revenue": 571000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 70000,
+      "promotionTicks": 159,
+      "orderTicks": 142,
+      "cookTicks": 294,
+      "idleTicks": 5,
+      "opponentRevenue": 549000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    },
+    {
+      "strategy": "traffic-cap",
+      "seed": "3110",
+      "seat": 1,
+      "mirror": true,
+      "revenue": 549000,
+      "served": 65,
+      "unfinished": 6,
+      "refunded": 65000,
+      "promotionTicks": 171,
+      "orderTicks": 142,
+      "cookTicks": 282,
+      "idleTicks": 5,
+      "opponentRevenue": 571000,
+      "status": "OK",
+      "traffic": [
+        {
+          "tick": 0,
+          "trafficLevel": "steady",
+          "text": "경기 시작: 보통"
+        },
+        {
+          "tick": 40,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        },
+        {
+          "tick": 120,
+          "trafficLevel": "quiet",
+          "text": "혼잡도 변경: 한산"
+        },
+        {
+          "tick": 200,
+          "trafficLevel": "steady",
+          "text": "혼잡도 변경: 보통"
+        },
+        {
+          "tick": 280,
+          "trafficLevel": "busy",
+          "text": "혼잡도 변경: 혼잡"
+        }
+      ]
+    }
+  ]
+}
