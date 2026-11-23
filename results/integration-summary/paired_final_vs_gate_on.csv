@@ -1,0 +1,4 @@
+﻿set,mean_diff,seeds_up,seeds_equal,seeds_down,ci95_lo,ci95_hi
+public_2026-2030,600,3,2,0,100,1100
+new_4001-4020,1675,16,3,1,925,2500
+holdout_5001-5030,1667,21,6,3,683,2750
