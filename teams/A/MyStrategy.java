@@ -6,9 +6,9 @@ import java.util.*;
 public class MyStrategy {
  // ===== 실험 설정 (독립적으로 변경 가능) =====
  /** true: 짧은 주문 우선 + 정밀 마감 판단(PR #3). false: 접수 대기열 맨 앞 주문(기존). */
- static final boolean ORDER_GATE = true;
+ static final boolean ORDER_GATE = false;
  /** "FCFS": 제조 대기열 맨 앞(기존), "SJF": 제조시간 최단, "DP": 남은 시간 내 매출 최대 조합(PR #4). */
- static final String COOK_MODE = "FCFS";
+ static final String COOK_MODE = "DP";
  /** true: 혼잡도별 작업량 상한 + 홍보 대상 고객 확인(PR #2). false: 기존 홍보. */
  static final boolean PROMOTION_LIMIT = false;
  /** 마감 직전 홍보 중단 여유. now + PROMO_END_MARGIN < horizon 일 때만 홍보. 4 = 기존 동작. */
