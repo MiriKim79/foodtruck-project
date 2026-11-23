@@ -21,3 +21,11 @@ fs.writeFileSync('results/integration-summary/summary.csv','﻿'+out.join('\n')+
 const po=['set,mean_diff,seeds_up,seeds_equal,seeds_down,ci95_lo,ci95_hi'];
 for(const [set,dir] of SETS){const L=n=>JSON.parse(fs.readFileSync(path.join(dir,n+'_vs_B.json'))).rows;const a=sm(L('D1')),b=sm(L('C2'));const d=a.map((v,i)=>v-b[i]);const[lo,hi]=ci(d);po.push([set,Math.round(m(d)),d.filter(v=>v>0).length,d.filter(v=>v===0).length,d.filter(v=>v<0).length,Math.round(lo),Math.round(hi)].join(','));}
 fs.writeFileSync('results/integration-summary/paired_final_vs_gate_on.csv','﻿'+po.join('\n')+'\n');console.log(po.join('\n'));
+// 안정성: 시드별 차이의 중앙값/최소/최대, 상위 3개 시드 기여 비율, 상위 3개 제외 평균 + 직원 작업 시간(전략 평균, 300틱 기준) -> stability_vs_main.csv
+const st=['set,variant,median_diff,min_diff,max_diff,top3_share_pct,mean_without_top3,w0_cook,w1_take,w1_promote,w0_idle,w1_idle'];
+for(const [set,dir] of SETS){const L=n=>JSON.parse(fs.readFileSync(path.join(dir,n+'_vs_B.json'))).rows;const bs=sm(L('M'));
+ for(const n of ['C2','D1']){const r=L(n);const d=sm(r).map((v,i)=>v-bs[i]);const so=[...d].sort((a,b)=>b-a);const tot=d.reduce((a,b)=>a+b,0);
+  const med=[...d].sort((a,b)=>a-b)[Math.floor(d.length/2)];const g=k=>m(r.map(x=>x[k]||0));
+  const c=g('w0_COOK'),t0=g('w0_TAKE_ORDER'),p0=g('w0_PROMOTE'),c1=g('w1_COOK'),t=g('w1_TAKE_ORDER'),p=g('w1_PROMOTE');
+  st.push([set,n,Math.round(med),Math.round(Math.min(...d)),Math.round(Math.max(...d)),(so.slice(0,3).reduce((a,b)=>a+b,0)/tot*100).toFixed(0),Math.round(m(so.slice(3))),c.toFixed(0),t.toFixed(0),p.toFixed(0),(300-c-t0-p0).toFixed(0),(300-c1-t-p).toFixed(0)].join(','));}}
+fs.writeFileSync('results/integration-summary/stability_vs_main.csv','﻿'+st.join('\n')+'\n');console.log(st.join('\n'));

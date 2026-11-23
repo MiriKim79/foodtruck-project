@@ -20,7 +20,7 @@ SKIPC=1 node harness.js D1 B $(seq -s, 5001 5030)               # 홀드아웃
 
 ## 요약 재생성 (저장소 루트에서)
 ```bash
-node results/integration-summary/make_summary.js   # summary.csv, paired_final_vs_gate_on.csv 생성
+node results/integration-summary/make_summary.js   # summary.csv, paired_final_vs_gate_on.csv, stability_vs_main.csv 생성
 ```
 시드 단위 짝비교(시드당 4경기 평균의 차이) + 95% 부트스트랩(10,000회, 고정 난수열). 시드 20·30개 기준의 구간이며 경기 80·120개를 독립 표본으로 보지 않았다.
 
@@ -36,3 +36,5 @@ node results/integration-summary/make_summary.js   # summary.csv, paired_final_v
 | 신규 4001~4020 | `results/integration-validation-4001-4020/raw/` |
 | 홀드아웃 5001~5030 | `results/integration-holdout-5001-5030/raw/` |
 (JSON 각 약 110~125KB, 합계 약 350KB → 커밋 적합)
+
+기준값 559,750원 조사: `BASELINE_559750.md`
